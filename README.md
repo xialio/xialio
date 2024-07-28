@@ -28,7 +28,7 @@ We love connecting with the community. Here’s how you can reach us:
 - **Email**:[点击发送邮件](mailto:sansuke@126.com?subject=你好&body=这是邮件正文。)
 - **weibo**:[@谁没节操](https://weibo.com/222971230)
 - **Twitter**: [@闪光夏莉欧](https://twitter.com/kagarinokenn)
-- **Website**: [xialio bing ai](https://bing.xialiobingai.dns.army/)
+- **Website**: [xialio note](https://note.xialio.us.kg/)
 
 ## Blog
 
