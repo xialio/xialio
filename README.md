@@ -28,11 +28,11 @@ We love connecting with the community. Here’s how you can reach us:
 - **Email**:[点击发送邮件](mailto:sansuke@126.com?subject=你好&body=这是邮件正文。)
 - **weibo**:[@谁没节操](https://weibo.com/222971230)
 - **Twitter**: [@闪光夏莉欧](https://twitter.com/kagarinokenn)
-- **Website**: [xialio note](https://note.xialio.us.kg/)
+- **Website**: [site](https://xialio.bio.link/)
 
 ## Blog
 
-Check out our latest articles and insights on our [note blog](https://nolebase-template-lovat.vercel.app/).
+Check out our latest articles and insights on our [blog](https://blog.xialio.us.kg/).
 
 ## Support Us
 
